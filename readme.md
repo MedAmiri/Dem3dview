@@ -1,4 +1,4 @@
-** init DEM View with java and OpenGl 
+### init DEM View with java and OpenGl 
 
 
 
