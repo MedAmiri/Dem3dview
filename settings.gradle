@@ -15,4 +15,4 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'jogl_3d'
+rootProject.name = 'Dem3dview'
